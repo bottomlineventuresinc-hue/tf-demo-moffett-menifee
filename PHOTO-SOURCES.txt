@@ -1,0 +1,20 @@
+PHOTO SOURCES · hs-068-moffett Robert Moffett Plumbing (Wave 14 2026-09-30 PT)
+All CC0 / public domain (Wikimedia Commons CC0/PD, Flickr CC0/PDM, rawpixel CC0, StockSnap CC0) or prior verified Wave library.
+New Wave 14 files: see builds/_assets_dl/wave14/SOURCES.tsv and its sources log for source URLs and terms.
+Every file opened and checked for trade fit and job-label fit. No face is used or captioned as the owner or crew.
+Sample B/A photos are labeled on page as stock images typical of this kind of job.
+
+hero-site.jpg <- wave14/plumb-fittings-copper.jpg : Pile of copper pipe fittings (rawpixel CC0 1.0 https://www.rawpixel.com/image/5947474/free-public-domain-cc0-photo)
+services-trade.jpg <- wave14/plumb-toolkit-table.jpg : Plumbing parts and tools laid out on a table (rawpixel CC0 1.0 https://www.rawpixel.com/image/3337213/free-photo-image-toolkit-allan-key-brazil)
+people-crew.jpg <- wave14/plumb-outdoor-faucet.jpg : Old outdoor faucet (rawpixel CC0 1.0 https://www.rawpixel.com/image/5902418/photo-image-public-domain-free-old)
+people-marek.jpg <- wave14/plumb-toilet-plain.jpg : Catalog image of a plain white toilet (rawpixel CC0 1.0 https://www.rawpixel.com/image/8907857/image-texture-paper-arts)
+people-tom.jpg <- wave11/bath-sink-wall.jpg : wall-mounted bathroom sink (WordPress Photos CC0 251622a36c)
+coverage-house.jpg <- wave11/house-stucco-ie.jpg : stucco single-story home, Southwest style (StockSnap CC0 L9VZ6SOGBB)
+plumb-heater-rusted.jpg <- wave14/plumb-heater-rusted.jpg : Old water heater tank, rusted and opened up after removal (wikimedia CC0 1.0 https://commons.wikimedia.org/w/index.php?curid=24892737)
+wh-basement-tank.jpg <- wave11/wh-basement-tank.jpg : tank water heater in a utility room (Flickr PDM 17715613311)
+plumb-faucet-worn.jpg <- wave14/plumb-faucet-worn.jpg : Worn faucet with water running (wikimedia CC0 1.0 https://commons.wikimedia.org/wiki/File:Tap-gb0fe5d2cc_1920.jpg)
+kitchen-faucet-chrome.jpg <- wave11/kitchen-faucet-chrome.jpg : chrome pull-down kitchen faucet (StockSnap CC0 XVEZZZGCXA)
+plumb-pipe-patched.jpg <- wave14/plumb-pipe-patched.jpg : Old pipe joint with a messy patch job (wikimedia CC0 1.0 https://commons.wikimedia.org/wiki/File:Unprofessional_plumbing_pipe_repair.jpg)
+copper-valves-filter.jpg <- wave11/copper-valves-filter.jpg : copper supply lines with red ball valves and a filter housing (rawpixel CC0 6041215)
+
+Note: Services are the 12 named on the business's own 2015 page, nothing added; that page is not linked and its town list is not used (home city only). No years in business are stated. Wordmark and page use Robert Moffett Plumbing and Robert Moffett, with no suffix. The unrelated business that holds the similar domains and the no-DNS moffett names are NOT used or linked; domain ideas avoid those strings.
